@@ -118,7 +118,7 @@ file connector-name.json:
     "database.user": "xxx",
     "database.password": "xxx",
     "port": "",
-    "secure": true
+    "secure": true,
     "poll.interval.ms": "2000",
     "transforms": "unwrap",
     "transforms.unwrap.delete.handling.mode": "rewrite",
